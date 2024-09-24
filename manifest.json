@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "ctrlP",
   "version": "1.0",
-  "description": "Test show more settings in Ctrl+P modal",
+  "description": "Chrome Extension to enable the "More Settings" option when not available on certain cases",
 
   "icons": {
     "16": "images/icon-16.png",
